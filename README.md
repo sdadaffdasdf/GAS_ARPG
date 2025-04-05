@@ -38,6 +38,13 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 3. 右键点击.uproject文件并选择"Generate Visual Studio project files"
 4. 打开解决方案并编译项目
 
+## 建议使用Vscode以及其插件如下
+
+1. C/C++
+2. C/C++ Extension Pack
+3. CMake
+4. Lua(Tencent)
+
 ## 贡献指南
 
 欢迎对本项目做出贡献！请遵循以下步骤:
@@ -55,11 +62,6 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 
 *2726334183@qq.com*
 
-## 建议使用Vscode以及其插件如下
-1.C/C++
-2.C/C++ Extension Pack
-3.CMake
-4.Lua(Tencent)
 
 ---
 *AnabiosisOrigin - 重新定义动作RPG体验*
