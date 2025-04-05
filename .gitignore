@@ -54,3 +54,6 @@ Plugins/**/Binaries/
 .Trashes
 ehthumbs.db
 Thumbs.db
+Plugins/UnLuaExtensions/LuaProtobuf/Binaries/Win64/UnrealEditor-LuaProtobuf.dll
+Plugins/UnLuaExtensions/LuaProtobuf/Intermediate/Build/Win64/x64/UnrealEditor/Development/LuaProtobuf/UnrealEditor-LuaProtobuf.exp
+Plugins/UnLuaExtensions/LuaProtobuf/Intermediate/Build/Win64/x64/UnrealEditor/Development/LuaProtobuf/UnrealEditor-LuaProtobuf.lib
