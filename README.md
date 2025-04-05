@@ -3,6 +3,7 @@
 ## 项目介绍
 
 AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARPG)。项目融合了深度战斗系统与引人入胜的叙事体验，利用UE5的Gameplay Ability System (GAS)框架实现了灵活且可扩展的角色能力系统。
+如果您能从本项目学到您所需的知识，我们感到非常荣幸，也衷心的希望您也可以做出更好的项目并开源，从而帮助到更多的人~
 
 ## 核心特性
 
@@ -17,7 +18,7 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 ## 技术栈
 
 - 虚幻引擎5.4
-- C++与蓝图混合开发
+- C++与蓝图反射Unlua混合开发
 - Gameplay Ability System (GAS)
 - Enhanced Input System
 - 高级动画系统与动态过渡
@@ -37,6 +38,13 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 3. 右键点击.uproject文件并选择"Generate Visual Studio project files"
 4. 打开解决方案并编译项目
 
+## 建议使用Vscode以及其插件如下
+
+1. C/C++
+2. C/C++ Extension Pack
+3. CMake
+4. Lua(Tencent)
+
 ## 贡献指南
 
 欢迎对本项目做出贡献！请遵循以下步骤:
@@ -54,6 +62,6 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 
 *2726334183@qq.com*
 
----
 
+---
 *AnabiosisOrigin - 重新定义动作RPG体验*
