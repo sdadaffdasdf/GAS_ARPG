@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LuaRapidjson.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Shinelon\Desktop\UnLua-master\Intermediate\Build\Win64\x64\TPSProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.h.obj"
+"C:\Users\Shinelon\Desktop\UnLua-master\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\LuaRapidjsonModule.cpp.obj"
+"C:\Users\Shinelon\Desktop\UnLua-master\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\Document.cpp.obj"
+"C:\Users\Shinelon\Desktop\UnLua-master\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\rapidjson.cpp.obj"
+"C:\Users\Shinelon\Desktop\UnLua-master\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\Schema.cpp.obj"
+"C:\Users\Shinelon\Desktop\UnLua-master\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\values.cpp.obj"
+"C:\Users\Shinelon\Desktop\UnLua-master\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\Default.rc2.res"
+/OUT:"C:\Users\Shinelon\Desktop\UnLua-master\Plugins\UnLuaExtensions\LuaRapidjson\Intermediate\Build\Win64\x64\UnrealEditor\Development\LuaRapidjson\UnrealEditor-LuaRapidjson.lib"

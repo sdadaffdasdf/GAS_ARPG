@@ -1,0 +1,53 @@
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Unreal Engine generated files
+/Saved/
+/Intermediate/
+/Binaries/
+/DerivedDataCache/
+/Build/
+/Plugins/*/Intermediate/
+/Plugins/*/Binaries/
+
+# Content that should not be in version control
+/Content/StarterContent/
+/Content/Collections/
+
+# Debugging files
+*.pdb
+*.ilk
+*.aps
+*.ipch/
+
+# Configuration files
+/Config/DefaultEngine.ini
+/Config/DefaultGame.ini
+/Config/DefaultInput.ini
+/Config/DefaultEditor.ini
+/Config/DefaultEditorPerProjectUserSettings.ini
+/Config/DefaultGameplayTags.ini
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

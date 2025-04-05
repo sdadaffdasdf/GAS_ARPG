@@ -1,0 +1,59 @@
+# AnabiosisOrigin
+
+## 项目介绍
+
+AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARPG)。项目融合了深度战斗系统与引人入胜的叙事体验，利用UE5的Gameplay Ability System (GAS)框架实现了灵活且可扩展的角色能力系统。
+
+## 核心特性
+
+- **动态战斗系统**：基于GAS实现的流畅战斗体验，支持连招、格挡和闪避机制
+- **角色进阶系统**：完整的属性成长与技能树系统
+- **多样化敌人AI**：具有独特行为模式与战斗策略的敌人系统
+- **沉浸式环境**：利用UE5的Lumen和Nanite技术打造高品质游戏世界
+- **可扩展框架**：模块化设计使新内容开发变得简单高效
+- **Unlua支持**：使用Unlua替代蓝图开发
+-  **未来展望**：更加完善的ARPG功能封装，欢迎协作让我们一起把这个项目变得更好！！！！
+
+## 技术栈
+
+- 虚幻引擎5.4
+- C++与蓝图混合开发
+- Gameplay Ability System (GAS)
+- Enhanced Input System
+- 高级动画系统与动态过渡
+
+## 开发状态
+
+该项目目前处于早期开发阶段，核心系统框架已经构建完成。我们正在积极开发更多游戏内容与功能。
+
+## 截图展示
+
+*(这里可以添加游戏截图)*
+
+## 安装与使用
+
+1. 克隆仓库: `git clone https://github.com/sdadaffdasdf/GAS_ARPG.git`
+2. 使用虚幻引擎5.4或更高版本打开项目
+3. 右键点击.uproject文件并选择"Generate Visual Studio project files"
+4. 打开解决方案并编译项目
+
+## 贡献指南
+
+欢迎对本项目做出贡献！请遵循以下步骤:
+1. Fork本仓库
+2. 创建您的特性分支: `git checkout -b my-new-feature`
+3. 提交您的更改: `git commit -am '添加某项功能'`
+4. 将更改推送到分支: `git push origin my-new-feature`
+5. 提交Pull Request
+
+## 许可证
+
+本项目采用MIT许可证 - 查看LICENSE文件了解详情
+
+## 联系方式
+
+*2726334183@qq.com*
+
+---
+
+*AnabiosisOrigin - 重新定义动作RPG体验*

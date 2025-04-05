@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_project\\anabiosisorigin\\plugins\\unluaextensions\\luaprotobuf\\source\\private\\luaprotobufmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_project\\anabiosisorigin\\plugins\\unluaextensions\\luaprotobuf\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\luaprotobuf\\pch.luaprotobuf.h.pch",
+        "Includes": [
+            "d:\\ue_project\\anabiosisorigin\\plugins\\unluaextensions\\luaprotobuf\\source\\src\\pb.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

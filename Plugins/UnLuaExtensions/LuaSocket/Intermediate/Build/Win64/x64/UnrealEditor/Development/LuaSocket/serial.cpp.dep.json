@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_project\\anabiosisorigin\\plugins\\unluaextensions\\luasocket\\source\\src\\serial.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_project\\anabiosisorigin\\intermediate\\build\\win64\\x64\\anabiosisorigineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue_project\\anabiosisorigin\\plugins\\unluaextensions\\luasocket\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\luasocket\\definitions.luasocket.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
