@@ -17,7 +17,7 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 ## 技术栈
 
 - 虚幻引擎5.4
-- C++与蓝图混合开发
+- C++与蓝图反射Unlua混合开发
 - Gameplay Ability System (GAS)
 - Enhanced Input System
 - 高级动画系统与动态过渡
