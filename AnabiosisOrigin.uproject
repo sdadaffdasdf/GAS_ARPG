@@ -25,5 +25,9 @@
 			"Name": "GameplayAbilities",
 			"Enabled": true
 		}
+	],
+	"DisableEnginePluginsByDefault": false,
+	"AdditionalFilesToIgnore": [
+		"LICENSE"
 	]
 }

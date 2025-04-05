@@ -11,7 +11,20 @@
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off",
-		"npm.autoDetect": "off"
+		"npm.autoDetect": "off",
+		"files.associations": {
+			"any": "cpp",
+			"bitset": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"map": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"hash_map": "cpp",
+			"xstring": "cpp"
+		}
 	},
 	"extensions": {
 		"recommendations": [
