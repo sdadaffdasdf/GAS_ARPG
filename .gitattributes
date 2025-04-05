@@ -8,3 +8,5 @@
 *.pch filter=lfs diff=lfs merge=lfs -text
 *.pak filter=lfs diff=lfs merge=lfs -text
 *.dll filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+大文件路径 filter=lfs diff=lfs merge=lfs -text

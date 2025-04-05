@@ -21,6 +21,9 @@
 /Build/
 /Plugins/*/Intermediate/
 /Plugins/*/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/Binaries/
+
 
 # Content that should not be in version control
 /Content/StarterContent/
