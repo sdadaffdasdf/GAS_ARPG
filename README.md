@@ -1,6 +1,7 @@
 # AnabiosisOrigin
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## 项目介绍
+## 项目简介
 
 AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARPG)。项目融合了深度战斗系统与引人入胜的叙事体验，利用UE5的Gameplay Ability System (GAS)框架实现了灵活且可扩展的角色能力系统。
 如果您能从本项目学到您所需的知识，我们感到非常荣幸，也衷心的希望您也可以做出更好的项目并开源，从而帮助到更多的人~
@@ -35,12 +36,12 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 
 1. 克隆仓库: `git clone https://github.com/sdadaffdasdf/GAS_ARPG.git`
 2. 使用虚幻引擎5.4或更高版本打开项目
-3. 右键点击.uproject文件并选择"Generate Visual Studio project files"
+3. 右键点击.uproject文件并选择Generate
 4. 打开解决方案并编译项目
 
 ## 建议使用Vscode以及其插件如下
 
-1. C/C++
+1. C/C++ 
 2. C/C++ Extension Pack
 3. CMake
 4. Lua(Tencent)
@@ -56,7 +57,7 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 
 ## 许可证
 
-本项目采用GPL协议 - 查看LICENSE文件了解详情
+本项目采用 GNU 通用公共许可证 v3.0 (GPL-3.0) 进行发布。详情请参阅 [LICENSE](LICENSE) 文件或访问 https://www.gnu.org/licenses/gpl-3.0.html。
 
 ## 联系方式
 

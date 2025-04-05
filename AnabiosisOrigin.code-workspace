@@ -24,7 +24,8 @@
 			"vector": "cpp",
 			"hash_map": "cpp",
 			"xstring": "cpp"
-		}
+		},
+		"powershell.cwd": "AnabiosisOrigin"
 	},
 	"extensions": {
 		"recommendations": [
