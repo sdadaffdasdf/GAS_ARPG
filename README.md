@@ -55,6 +55,11 @@ AnabiosisOrigin是一款基于虚幻引擎5开发的动作角色扮演游戏(ARP
 
 *2726334183@qq.com*
 
----
+## 建议使用Vscode以及其插件如下
+C/C++
+C/C++ Extension Pack
+CMake
+Lua(Tencent)
 
+---
 *AnabiosisOrigin - 重新定义动作RPG体验*
